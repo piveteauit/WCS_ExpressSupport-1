@@ -1,0 +1,24 @@
+{
+  "name": "WCS_ExpressSupport-1",
+  "version": "1.0.0",
+  "description": "Support sur Express et Nodejs seulement",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piveteauit/WCS_ExpressSupport-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piveteauit/WCS_ExpressSupport-1/issues"
+  },
+  "homepage": "https://github.com/piveteauit/WCS_ExpressSupport-1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
